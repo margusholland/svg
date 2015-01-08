@@ -1,2 +1,2 @@
 # svg
-General purpose SVG-s
+General purpose SVG files, both animated and regular
